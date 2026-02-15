@@ -62,16 +62,16 @@ export const siteContent = {
     {
       title: 'Quarter Best Employee (BTB)',
       organization: 'Ezee.ai',
-      timeframe: 'Quarter Award',
+      timeframe: '2025 3rd Quarter',
       description:
         'Recognized for high-impact contributions, delivery consistency, and ownership across key BTB initiatives.',
     },
     {
       title: 'Innovative Instigator Award',
       organization: 'Ezee.ai Annual Awards',
-      timeframe: '2025',
+      timeframe: '2026',
       description:
-        'Awarded at the 2025 annual ceremony for driving innovation through practical ideas and impactful execution.',
+        'Awarded at the 2026 annual ceremony for driving innovation through practical ideas and impactful execution.',
     },
   ],
   skills: {
