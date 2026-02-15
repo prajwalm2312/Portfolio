@@ -83,6 +83,6 @@ export const siteContent = {
   contact: {
     email: 'm.prajwal.2312@gmail.com',
     linkedin: 'https://www.linkedin.com/in/prajwal-m-95b685196',
-    github: 'https://gitlab.com/m.prajwal.2312',
+    github: 'https://github.com/prajwalm2312',
   },
 } as const
